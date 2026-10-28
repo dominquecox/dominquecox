@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @dominquecox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ploonu LLC
 
-<!---
-dominquecox/dominquecox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+We build apps, developer tools, and AI-powered software that make everyday work simpler.
+
+Our work spans web, mobile, and the services behind them—with a focus on useful features, clear design, accessibility, and security.
+
+### What we’re interested in
+
+- Practical AI that helps people get things done
+- Thoughtful web and mobile experiences
+- Developer tools and workflow automation
+- Reliable, maintainable software
+
+### Connect
+
+Have an idea, a question, or a project you’d like to collaborate on? Reach out through our profiles.
+
+- **Ploonu:** [@dominquecox](https://github.com/dominquecox)
+- **Personal GitHub:** [@larohndale](https://github.com/larohndale)
