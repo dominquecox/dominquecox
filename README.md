@@ -2,6 +2,8 @@
 
 We build apps, developer tools, and AI-powered software that make everyday work simpler.
 
+Founder https://github.com/larohndale
+
 Our work spans web, mobile, and the services behind them—with a focus on useful features, clear design, accessibility, and security.
 
 ### Products
